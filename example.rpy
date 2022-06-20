@@ -9,6 +9,6 @@ init 5 python:
         )
     )
 
-label example:
+label example_break:
     m 1eua "Hello, World!"
     return
