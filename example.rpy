@@ -10,5 +10,5 @@ init 5 python:
     )
 
 label example:
-    m 1eua "Example."
+    m 1eua "Hello, World!"
     return
