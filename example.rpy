@@ -10,5 +10,6 @@ init 5 python:
     )
 
 label example:
-    m 1eua "Hello, World!
+    # Trigger CI
+    m 1eua "Hello, World!"
     return
